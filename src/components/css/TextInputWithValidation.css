@@ -1,0 +1,24 @@
+.label {
+    flex: 2;
+    font-weight: bold;
+    width: 150px;
+  }
+  
+  .textInput {
+    width: 100%;
+    border-color: gray;
+    padding: 10px;
+    margin-bottom: 10px;
+    border:1px solid #ccc ; /* Add some space for the star icon */
+    border-radius: 4px;
+  }
+  
+  .errorInput {
+    border-color: red; /* Apply border color to indicate error */
+  }
+  
+  .errorText {
+    color: red;
+    margin-bottom: 10px;
+  }
+  
